@@ -12,7 +12,7 @@ Matlab environment. To do this, make the following steps:
 > [!NOTE]
 > The new versions of Matlab doesn't support (gatool) so try (optimtool) instead.
 
-3- Insert the name of the objective function in the field: Fitness function: @objfun
+3- Insert the name of the objective function in the field: Fitness function: ```@objfun```
 
 and the name of 'solver' we choose (ga genetic algorithm)
 
