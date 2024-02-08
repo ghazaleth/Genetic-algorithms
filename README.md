@@ -10,7 +10,7 @@ Matlab environment. To do this, make the following steps:
   ![gatool](https://github.com/moha999DJ/Genetic-algorithms/assets/69479417/9a46b63d-016f-485a-948b-850457556672)
   
 > [!NOTE]
-> The new versions of Matlab doesn't support (gatool) so try (optimtool) instead.
+> The new versions of Matlab doesn't support ```gatool``` so try (optimtool) instead.
 
 3- Insert the name of the objective function in the field: Fitness function: ```@objfun```
 
